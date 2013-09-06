@@ -1,0 +1,10 @@
+This Applications are going to have the following functionalities and design pattern.
+1. The target dictionaries are
+    a. English
+    b. Nigerian Languages dictionaries
+    
+2. Users should be able to search for words from the dictionary databases.
+3, The user should be able to see related words, word-usage and pronuciation of words.
+4. The various dictionary databases should be formated such the its independent of the application i.e has its defined format
+    and users can choose to load or unload a particular language.
+5.  
