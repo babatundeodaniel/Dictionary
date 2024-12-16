@@ -41,7 +41,7 @@
         <mxCell id="9mEMTc3M4Qk1z0OzVY7i-26" value="Backend" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="95" y="710" width="630" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="9mEMTc3M4Qk1z0OzVY7i-16" value="GetriPay Server 1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" parent="9mEMTc3M4Qk1z0OzVY7i-26" vertex="1">
+        <mxCell id="9mEMTc3M4Qk1z0OzVY7i-16" value="GetriPay Server 1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#f8cecc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#b85450;" parent="9mEMTc3M4Qk1z0OzVY7i-26" vertex="1">
           <mxGeometry x="10" y="40" width="140" height="78" as="geometry" />
         </mxCell>
         <mxCell id="9mEMTc3M4Qk1z0OzVY7i-17" value="10.10.10.199" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="9mEMTc3M4Qk1z0OzVY7i-16" vertex="1">
@@ -50,7 +50,7 @@
         <mxCell id="9mEMTc3M4Qk1z0OzVY7i-18" value="10.20.10.199" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="9mEMTc3M4Qk1z0OzVY7i-16" vertex="1">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="9mEMTc3M4Qk1z0OzVY7i-20" value="GetriPay Server 2" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" parent="9mEMTc3M4Qk1z0OzVY7i-26" vertex="1">
+        <mxCell id="9mEMTc3M4Qk1z0OzVY7i-20" value="GetriPay Server 2" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#dae8fc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#6c8ebf;" parent="9mEMTc3M4Qk1z0OzVY7i-26" vertex="1">
           <mxGeometry x="160" y="40" width="140" height="78" as="geometry" />
         </mxCell>
         <mxCell id="9mEMTc3M4Qk1z0OzVY7i-21" value="10.10.10.207" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="9mEMTc3M4Qk1z0OzVY7i-20" vertex="1">
@@ -59,7 +59,7 @@
         <mxCell id="9mEMTc3M4Qk1z0OzVY7i-22" value="10.20.10.207" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="9mEMTc3M4Qk1z0OzVY7i-20" vertex="1">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="9mEMTc3M4Qk1z0OzVY7i-23" value="Mysql DB" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" parent="9mEMTc3M4Qk1z0OzVY7i-26" vertex="1">
+        <mxCell id="9mEMTc3M4Qk1z0OzVY7i-23" value="Mysql DB" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#d5e8d4;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#82b366;" parent="9mEMTc3M4Qk1z0OzVY7i-26" vertex="1">
           <mxGeometry x="330" y="40" width="140" height="78" as="geometry" />
         </mxCell>
         <mxCell id="9mEMTc3M4Qk1z0OzVY7i-25" value="&lt;div&gt;10.20.10.215&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="9mEMTc3M4Qk1z0OzVY7i-23" vertex="1">
@@ -68,7 +68,7 @@
         <mxCell id="9mEMTc3M4Qk1z0OzVY7i-24" value="10.10.10.215" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="9mEMTc3M4Qk1z0OzVY7i-23" vertex="1">
           <mxGeometry y="52" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="9mEMTc3M4Qk1z0OzVY7i-27" value="Redis DB" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" parent="9mEMTc3M4Qk1z0OzVY7i-26" vertex="1">
+        <mxCell id="9mEMTc3M4Qk1z0OzVY7i-27" value="Redis DB" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#ffe6cc;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;strokeColor=#d79b00;" parent="9mEMTc3M4Qk1z0OzVY7i-26" vertex="1">
           <mxGeometry x="480" y="40" width="140" height="78" as="geometry" />
         </mxCell>
         <mxCell id="9mEMTc3M4Qk1z0OzVY7i-28" value="&lt;div&gt;10.20.10.215&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="9mEMTc3M4Qk1z0OzVY7i-27" vertex="1">
